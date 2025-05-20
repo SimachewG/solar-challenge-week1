@@ -1,4 +1,4 @@
-## Project Title: Solar Data Discovery Challenge
+## Project Title: Solar Data Analysis
 
 ### Overview
 This project involves a comprehensive analysis of solar farm data from Benin, togo, and andsierraleone focusing on summary statistics, outlier detection, time series analysis, and correlation assessments. 
@@ -72,5 +72,3 @@ This project involves a comprehensive analysis of solar farm data from Benin, to
    - Create a small bar chart ranking the countries by their average GHI.
 ## Contribution
 If you would like to contribute to this project, please feel free to submit a pull request or raise an issue. Contributions are welcome, and we appreciate your involvement in enhancing the analysis and expanding the project's scope.
-
-
