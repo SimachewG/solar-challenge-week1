@@ -57,5 +57,11 @@ This project involves a comprehensive analysis of solar farm data from Benin, to
 ### 8. Bubble Chart Visualization
 - **Bubble Chart**: Plotted GHI against Tamb with bubble size representing RH, providing a visual representation of relationships.
 
+
+
+### 9. STREAMLIT
+- I successfully deployed on streamlit and you can see from 
+ https://solar-challenge-week1-fukyx4gnctchppc8g7ftnk.streamlit.app/
+
 ### Conclusion
 This analysis provides valuable insights into solar performance and environmental factors. The findings can assist in making informed decisions regarding solar investments and operational improvements.
