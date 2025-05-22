@@ -3,3 +3,5 @@ jupyter
 matplotlib
 seaborn
 numpy
+flake8
+pytest
