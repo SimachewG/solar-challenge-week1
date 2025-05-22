@@ -57,11 +57,22 @@ This project involves a comprehensive analysis of solar farm data from Benin, to
 ### 8. Bubble Chart Visualization
 - **Bubble Chart**: Plotted GHI against Tamb with bubble size representing RH, providing a visual representation of relationships.
 
+## Cross-Country Solar Potential Comparison
 
+### 9. **Metric Comparison**:
+   - Create boxplots to visualize the distribution of Global Horizontal Irradiance (GHI), Direct Normal Irradiance (DNI), and Diffuse Horizontal Irradiance (DHI) across the three countries.
+   - Provide a summary table comparing the mean, median, and standard deviation of GHI, DNI, and DHI across the countries.
+### 10. **Statistical Testing**:
+   - Conduct a one-way ANOVA (or Kruskal–Wallis) test on the GHI values to assess whether the differences between countries are statistically significant.
+   - Report the p-values.
+### 11. **Key Observations**:
+   - Summarize the key observations from the analysis in a markdown cell, highlighting the notable findings (e.g., "Country X shows highest median GHI but also greatest variability").
+### 12. **(Bonus) Visual Summary**:
+   - Create a small bar chart ranking the countries by their average GHI.
 
-### 9. STREAMLIT
+### 13. STREAMLIT
 - I successfully deployed on streamlit and you can see from 
  https://solar-challenge-week1-fukyx4gnctchppc8g7ftnk.streamlit.app/
 
 ### Conclusion
-This analysis provides valuable insights into solar performance and environmental factors. The findings can assist in making informed decisions regarding solar investments and operational improvements.
+If you would like to contribute to this project, please feel free to submit a pull request or raise an issue. Contributions are welcome, and we appreciate your involvement in enhancing the analysis and expanding the project's scope.
